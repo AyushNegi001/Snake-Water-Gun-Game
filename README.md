@@ -1,5 +1,3 @@
-
-# Snake Water Gun Game 🐍💧🔫 
 A simple and fun Snake Water Gun game built using Python. This is my first project. This project is inspired by Rock-Paper-Scissors where you play against the computer using Snake, Water, and Gun choices.
 
 ## 🧠 How It Works
